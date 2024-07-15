@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bricklib"
-version = "0.1.0"
+version = "0.1.1"
 description = "Augment your Python objects with drop-in behaviours and signals"
 authors = ["zdeyn <zdeyn@zdeyn.com>"]
 readme = "README.md"
